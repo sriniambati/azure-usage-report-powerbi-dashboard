@@ -1,1 +1,1 @@
-# Azure-Usage-Report-Power-BI-Dashboard
+# Azure-Usage-Report-PowerBI-Dashboard
